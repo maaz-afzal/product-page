@@ -1,3 +1,5 @@
+![Product Page Screenshot](assets/screenshot.png)
+
 # 🛍️ Store — Product Page
 
 A simple e-commerce product page built with vanilla HTML, CSS, and JavaScript.
